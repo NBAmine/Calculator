@@ -1,8 +1,6 @@
 import tkinter as tk
 import tkinter.font as font
 from math import *
-"""from sympy import *
-from sympy.parsing.sympy_parser import parse_expr"""
 
 root = tk.Tk()
 WIDTH=704
